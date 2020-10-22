@@ -6,7 +6,7 @@ Steps:
 Copy git-pish.bat into your gitHub project folder.
 After development when ready to check-in the code type in the porject's folder:
 
-</I> git-push  my first checkin in sample with comments </>
+<I> git-push  my first checkin in sample with comments </>
 
 
 
