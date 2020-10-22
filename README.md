@@ -5,7 +5,7 @@ I always forget what the steps are thus the script...
 The script is Windows compatible and it supports comments when checking in the code.
 <br><br>
 Steps:
-Copy <b>git-psh.bat</b> script into your project folder.
+Copy <b>git-push.bat</b> script into your project folder.
 When you are ready to check-in the code type in the porject's folder the following command (alternatively  you can create a shrtcut):
 <br>
 <br>
